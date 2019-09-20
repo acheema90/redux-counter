@@ -6,6 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@babel/plugin-proposal-decorators": "7.4.4",
+    "gh-pages": "^2.1.1",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "node-sass": "^4.12.0",
@@ -15,6 +16,7 @@
     "react-scripts": "2.1.8",
     "redux": "^4.0.1"
   },
+  "homepage": "https://acheema90.github.io/redux-counter",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
